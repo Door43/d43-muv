@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[muv:home|Door43 (muv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-muv|d43-muv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-muv/archive/master.zip|d43-muv.zip]]
+
+**Recent Changes**
+{{changes>ns = muv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/muv|Ethnologue data]]
+
